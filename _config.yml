@@ -38,7 +38,7 @@ plugins:
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
-footer: 'follow me on <a href="https://twitter.com/lucaoflaif">twitter</a>, contact me on <a href="https://telegram.me/lucaoflaif">telegram</a>'
+footer: 'follow me on <a href="https://twitter.com/lucaoflaif" target="_blank">twitter</a>, contact me on <a href="https://telegram.me/lucaoflaif" target="_blank">telegram</a>'
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
