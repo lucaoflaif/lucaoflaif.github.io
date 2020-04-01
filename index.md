@@ -4,8 +4,12 @@ layout: home
 permalink: /
 ---
 
+<script>
+  document.getElementById("years_old").innerHTML = (new Date().getFullYear()) - 1999;
+ </script>
+
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
-
-dummy text
+My name is Luca, I'm italian, I'm <p id="years_old"></p> years old. My world is made up of chemistry, rocket science, cooking and some engineering stuff.
+I'm an aerospace engineer student at Politecnico di Torino and this is the place where my brain will force me to write things.
+If you don't like alcohol or listening to someone talking about the new thrust vectoring control technique for hours then you won't like me.
