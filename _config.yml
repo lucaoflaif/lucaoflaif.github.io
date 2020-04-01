@@ -24,6 +24,10 @@
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+header_pages:
+  - index.md
+  - about.md
+
 # Build settings
 #markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
@@ -33,9 +37,6 @@ plugins:
 #google_analytics: UA-NNNNNNNN-N
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
-header_pages:
-    -index.md
-    -about.md
 
 footer: 'follow me on <a href="https://twitter.com/lucaoflaif">twitter</a>'
 # Exclude from processing.
